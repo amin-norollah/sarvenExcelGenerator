@@ -6,6 +6,9 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <ApplicationIcon>icon.ico</ApplicationIcon>
+    <Copyright>balrug</Copyright>
+    <PackageProjectUrl>https://github.com/amin-norollah/sarvenExcelGenerator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/amin-norollah/sarvenExcelGenerator</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
