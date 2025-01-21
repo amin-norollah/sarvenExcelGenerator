@@ -29,4 +29,5 @@ This project is licensed under the MIT License.
 
 ## Other versions
 The outdated version of the application that supports .NET Framework 4.7.2 is available here:
+
 [SarvenExcelGenerator v2](https://github.com/amin-norollah/sarvenExcelGenerator2)
