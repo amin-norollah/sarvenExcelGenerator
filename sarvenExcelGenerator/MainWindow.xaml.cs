@@ -16,6 +16,8 @@ namespace sarvenExcelGenerator
         public MainWindow()
         {
             InitializeComponent();
+
+            MonthPicker.SelectedDate = DateTime.Now;
         }
 
         private void OnGenerateExcelClick(object sender, RoutedEventArgs e)
